@@ -46,5 +46,5 @@ Currently undecided would be dependent upon the tech stacks used. Currently the 
 - [ ] Presentation
 - [ ] Demo Video representing the prototype and workflow
 - [ ] Developing the prototype 
-- [ ]
+- [ ] 
 
