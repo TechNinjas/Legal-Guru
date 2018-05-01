@@ -33,10 +33,11 @@ Since the whole legal documents like Evidence Records, FIR Copies, Forensic Anal
 Currently undecided would be dependent upon the tech stacks used. Currently the PPT and Demo Video along with the Github Documentation would be shared before **5th May**. Final Date of Submission 15 May.
 
 ## 3. TEAM
+* [Arijit Sen](https://github.com/arijitthehacker) (Team Leader)
 
-1. Arijit Sen (Team Leader)
-2. Chirag Maliwal
-3. Anujay Saraf
+* [Chirag Maliwal](https://github.com/cmaliwal)
+
+* [Anujay Saraf](https://github.com/AnujaySaraf)
 
 ## 4. Work To Be Done
 
